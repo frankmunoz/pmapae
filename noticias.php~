@@ -1,0 +1,50 @@
+ <section id="noticias">
+            <header>
+                <h2>Noticias</h2>
+            </header>
+            <div id="tj_container" class="tj_container">
+                <div class="tj_nav">
+                    <span id="tj_prev" class="tj_prev">Anterior</span>
+                    <ul>
+                        <li>1</li>
+                        <li>2</li>
+                        <li>3</li>
+                        <li>4</li>
+                        <li>5</li>
+                    </ul>
+                    <span id="tj_next" class="tj_next">Siguiente</span>
+                </div>
+
+                <div class="tj_wrapper">
+                    <ul class="tj_gallery">
+                         
+                            <li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+                         
+                            <li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+                            <li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+                            <li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+<li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+<li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+<li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+<li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+<li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+<li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+<li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+<li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+<li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+<li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+<li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+<li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+<li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+<li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+<li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+<li><a href="#"><img src="images/Imagen_a.png"/></a><a href="#"><h2>prueba noticias</h2></a><p>Gustavo Badía, director del Centro de Estudios de Estado y Administración (Argentina), analizó la importancia de saber para qué establecer políticas públicas, sin dejar de lado el cómo implementarlas.</p></li>
+
+
+
+
+                                            </ul>
+                </div>
+            </div>
+
+        </section>

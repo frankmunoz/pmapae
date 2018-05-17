@@ -1,0 +1,15 @@
+      
+<nav>
+
+    
+<ul>
+ <?php while($seccion_row= mysql_fetch_assoc($seccionRS))	 {?>
+       <li><a href="#"><?php echo $seccion_row['nombre'];?></a></li>
+<?php }    ?> 
+
+        
+</ul>
+     
+
+</nav> 
+

@@ -1,0 +1,10 @@
+<?php
+# FileName="Connection_php_mysql.htm"
+# Type="MYSQL"
+# HTTP="true"
+$hostname_Fenoco_conn = "localhost";
+$database_Fenoco_conn = "fenoco";
+$username_Fenoco_conn = "adminfnc";
+$password_Fenoco_conn = "fenoco2010";
+$Fenoco_conn = mysql_pconnect($hostname_Fenoco_conn, $username_Fenoco_conn, $password_Fenoco_conn) or trigger_error(mysql_error(),E_USER_ERROR); 
+?>

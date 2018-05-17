@@ -1,0 +1,67 @@
+$(document).ready( function(){
+	
+		
+	
+												
+												
+												
+				
+    $('.fade').mosaic();
+
+
+
+
+    
+
+
+
+$.get("header.html",
+  function(data){
+    $('#header').html(data);
+  });
+  $.get("menu_superior.php",
+  function(data){
+    $('#menu_superior').html(data);
+  });
+  $.get("importantes.php",
+  function(data){
+    $('#importantes').html(data);
+    	var buttons = { previous:$('#jslidernews2 .button-previous'),
+						next:$('#jslidernews2 .button-next') };
+									 
+		$('#jslidernews2').lofJSidernews( { interval:5000,
+											 	easing:'easeInOutQuad',
+												duration:1200,
+												auto:true,
+												mainWidth:450,
+												mainHeight:300,
+												navigatorHeight		: 100,
+												navigatorWidth		: 310,
+												maxItemDisplay:3,
+												buttons:buttons } ); 	
+  });
+   $.get("menu_lateral.php",
+  function(data){
+    $('#menu_lateral').html(data);
+  });
+   $.get("noticias.php",
+  function(data){
+    $('#noticias').html(data);
+    $('#tj_container').gridnav({
+        type	: {
+            mode		: 'disperse', 	// use def | fade | seqfade | updown | sequpdown | showhide | disperse | rows
+            speed		: 500,			// for fade, seqfade, updown, sequpdown, showhide, disperse, rows
+            easing		: '',			// for fade, seqfade, updown, sequpdown, showhide, disperse, rows	
+            factor		: '',			// for seqfade, sequpdown, rows
+            reverse		: ''			// for sequpdown
+        }
+    });
+  });
+   $.get("footer.html",
+  function(data){
+    $('#footer').html(data);
+  });
+});
+
+
+

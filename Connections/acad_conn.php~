@@ -1,0 +1,10 @@
+<?php
+# FileName="Connection_php_mysql.htm"
+# Type="MYSQL"
+# HTTP="true"
+$hostname_Sabana_conn = "localhost";
+$database_Sabana_conn = "VicerrectoriaAcademica";
+$username_Sabana_conn = "vicerrectoria";
+$password_Sabana_conn = "vicerrectoria2012";
+$Sabana_conn = mysql_pconnect($hostname_Sabana_conn, $username_Sabana_conn, $password_Sabana_conn) or trigger_error(mysql_error(),E_USER_ERROR); 
+?>
